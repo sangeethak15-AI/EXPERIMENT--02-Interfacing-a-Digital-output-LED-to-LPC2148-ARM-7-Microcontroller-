@@ -147,10 +147,10 @@ int main()
 ```
 
 ## Output screen shots :
-###LED OFF:
+### LED OFF:
 ![Screenshot 2022-09-25 103153](https://user-images.githubusercontent.com/93992063/192129228-0cfc382e-10ff-4877-9757-785d787f377f.png)
 
-###LED ON:
+### LED ON:
 ![image](https://user-images.githubusercontent.com/93992063/192129189-0947e35e-d4d5-44ae-a3b4-e376f6f4a306.png)
  
  
