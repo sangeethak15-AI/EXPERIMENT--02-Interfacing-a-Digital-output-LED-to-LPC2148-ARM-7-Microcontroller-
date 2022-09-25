@@ -153,7 +153,9 @@ int main()
 ### LED ON:
 ![image](https://user-images.githubusercontent.com/93992063/192129189-0947e35e-d4d5-44ae-a3b4-e376f6f4a306.png)
  
- 
+### LED CIRCUIT:
+![image](https://user-images.githubusercontent.com/93992063/192129382-1d339ab4-6997-430a-84da-128a6c2d214f.png)
+
 ## Result :
 Interfacing a digital output with ARM microcontroller is executed 
 
